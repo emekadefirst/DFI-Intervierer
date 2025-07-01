@@ -2,13 +2,13 @@
 
 **DFI Intervierer** is a simple and elegant crypto-themed landing page for a fictional platform called **Bollax**. It includes a responsive design, modern UI elements, and a working contact form powered by [Formspree](https://formspree.io/).
 
-🚀 Live Site: https://dfi-intervierer.vercel.app
-
+🚀 Live Site:[ https://dfi-intervierer.vercel.app
+](https://dfi-intervierer-bzdk.vercel.app/)
 ---
 
 ## 📸 Preview
 
-https://via.placeholder.com/1200x600?text=Landing+Page+Preview
+[https://via.placeholder.com/1200x600?text=Landing+Page+Preview](https://dfi-intervierer-bzdk.vercel.app/)
 
 ---
 
