@@ -1,0 +1,53 @@
+.landing-container {
+  background-color: #0a0a0a;
+  color: white;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.landing-hero {
+  text-align: center;
+}
+
+.logolanding {
+  font-size: 3rem;
+  font-weight: 800;
+  background: linear-gradient(90deg, yellowgreen, limegreen);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.hero-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.1rem;
+  color: #ccc;
+  max-width: 480px;
+  margin: 0 auto 2rem;
+}
+
+.hero-button {
+  background-color: yellowgreen;
+  color: white;
+  font-weight: bold;
+  padding: 0.8rem 1.6rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.hero-button:hover {
+  transform: scale(1.05);
+  background-color: #6dbf3d;
+}
